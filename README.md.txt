@@ -49,7 +49,6 @@ The data originates from Kaggle and includes over 10 years of transaction record
 
 ## 📈 Sample Insights
 
-> Replace with actual findings from your dashboard:
 - The **Australia & Oceania** region had the highest average profit per order.
 - **Cereal** and **Baby Food** were consistently top-performing categories.
 - **Offline sales** showed higher revenue but lower margin than online sales.
